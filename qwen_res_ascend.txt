@@ -2029,8 +2029,3 @@ D：是的。胎心是138次/分，也是正常的。
 {"key": "腹围", "term": "患者本次产检腹围", "value": "94cm", "raw": "腹围94cm"}
 {"key": "胎位", "term": "患者胎儿为左枕前位（LOA）头先露", "value": "左枕前位（LOA）头先露", "raw": "胎位是LOA，也就是左枕前位，头先露"}
 {"key": "胎心", "term": "患者胎心检测结果为138次/分", "value": "138次/分", "raw": "胎心是138次/分"}
-
-性能日志已写入: /root/temp/PostStruct2.0/output/LLM_Layer_Test_20260609_022041/performance.log
-LLM 测试完成，结果已保存至: /root/temp/PostStruct2.0/output/LLM_Layer_Test_20260609_022041/llm_test_results.json
-解析结果已保存至: /root/temp/PostStruct2.0/output/LLM_Layer_Test_20260609_022041/parsed_data.jsonl
-(PostStruct) root@5d6be5e4e7ce:~/temp/PostStruct2.0/code#
